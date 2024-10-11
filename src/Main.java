@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.io.File;
 
+
 public class Main {
     // creates the directions in the word search
     public static final int[] rowDirection = {-1, -1, -1, 0, 0, 1, 1, 1};
