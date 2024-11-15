@@ -1,2 +1,2 @@
 # word-search
-CSCI212 F24 Proj 1
+Generates a word search puzzle and provides answers
